@@ -1,0 +1,24 @@
+{
+ 	"gammaAccess": {
+ 	"url": "http://192.168.2.111:3000",
+ 	"userName": "admin@mygamma.io",
+ 	"password": "gamma123"
+ 	},
+ 	"repositories": [{
+ 	"repository": {
+ 	"uid": "8bae3b9d2a177627058f370ccba5a01d",
+ 	"projectName": "typescript",
+ 	"sources": {
+ 	"baseDir": "$WORKSPACE"
+ 	}
+ 	},
+ 	"dataDir": "/opt/gamma_data/tenants/1532440291108/module_data/7d96d6469dbc691d408eb9ca8ba89e1c",
+ 	"modules": {
+ 	"codeissues": [{
+ 	"name": "gamma_cxx"
+ 	}
+ 	 
+ 	]
+ 	}
+ 	}]
+ 	}
